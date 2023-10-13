@@ -16,7 +16,7 @@
 <br>
 
 - A passionate Computer Science student
-- Play Call of Duty Mobile in my free time
+- Play Fortnite Mobile and PC in my free time
 - Currently learning Java and Python
 
 <br><br>
