@@ -1,70 +1,74 @@
-<h1 align="center"><b>Hi , I'm Tejas Raman </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Tejas+Raman;Computer+Science+Student"></a>
-</p>
-
-
-<br>
-
-
-
-	
-## **About me**
-
-
-<br>
-
-- Computer Science Major @UT Dallas
-- Currently Learning LLMs and NLPs
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture><b> Skills</b>
-<br>
+<h1 align="center">I'm <span style="color:red;">Tejas Raman</span> 👋</h1>
 
 <p align="center">
-
-- **Languages**:
-    
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-
-
+  <img src="https://img.shields.io/badge/Code-C++-red?style=for-the-badge&logo=cpp" />
+  <img src="https://img.shields.io/badge/Code-C%23-red?style=for-the-badge&logo=csharp" />
+  <img src="https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Code-Python-red?style=for-the-badge&logo=python" />
 </p>
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-
-
-
-<br>
 
 ---
 
-<br>
+### 🔥 About Me
 
-Credit: [Tejas Raman](https://github.com/Traman2)
+- 🎓 CS student @ UT Dallas | Class of [Your Grad Year]
+- 🧠 Passionate about AI, Machine Learning, and Full-Stack Development  
+- 🔨 Building apps with React, Node, and TensorFlow  
+- 🎮 I also love video games, sketching, and origami to relax  
 
-Last Edited on: 09/22/2023
+---
+
+### 🧰 Tech I Work With
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,java,cpp,git,figma,vscode&theme=light" />
+
+---
+
+### Tools & Libraries I Use
+
+#### 🌐 Full Stack
+<p>
+  <img src="https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-blue?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+#### 🤖 Machine Learning / Data Science
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-red?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-red?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-red?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-red?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-red?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=traman2&show_icons=true&theme=radical&icon_color=ff0000" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=traman2&theme=radical&ring=ff0000&fire=ff0000&currStreakLabel=ffffff" width="49%" />
+</p>
+
+---
+
+### 💬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejas-raman-1a892b255/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tejassraman@example.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://tejasraman.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=24" />
+</p>
