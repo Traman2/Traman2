@@ -20,7 +20,7 @@
 
 ### Tech I Work With
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,java,cpp,git,figma,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=js,ts,tailwindcss,react,nextjs,nodejs,express,mongodb,python,java,cpp,git,figma,vscode&theme=light" />
 
 ---
 
