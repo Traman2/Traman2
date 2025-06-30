@@ -70,5 +70,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=24" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer&text=Learn%20Code%20Create!&fontColor=ffffff&fontSize=24" />
 </p>
