@@ -9,7 +9,7 @@
 
 ---
 
-### 🔥 About Me
+### About Me
 
 - 🎓 CS student @ UT Dallas | Class of 2027
 - 🧠 Passionate about AI, Machine Learning, and Full-Stack Development  
@@ -18,7 +18,7 @@
 
 ---
 
-### 🧰 Tech I Work With
+### Tech I Work With
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,java,cpp,git,figma,vscode&theme=light" />
 
@@ -44,7 +44,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=traman2&show_icons=true&theme=radical&icon_color=ff0000" width="49%" />
@@ -53,7 +53,7 @@
 
 ---
 
-### 💬 Let's Connect
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tejas-raman-1a892b255/" target="_blank">
