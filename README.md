@@ -12,9 +12,9 @@
 ### About Me
 
 - 🎓 CS student @ UT Dallas | Class of 2027
-- 🧠 Passionate about AI, Machine Learning, and Full-Stack Development  
-- 🔨 Building apps with React, Node, and TensorFlow  
-- 🎮 I also love video games and basketball
+- 🧠 Passionate about AI, RAG, ML, and Full Stack Development  
+- 🔨 Building apps with React, Node, TailwindCSS and more 
+- 🎮 Play video games in my free time
 
 ---
 
