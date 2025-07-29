@@ -48,7 +48,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=traman2&show_icons=true&theme=radical&icon_color=ff0000" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=traman2&theme=radical&ring=ff0000&fire=ff0000&currStreakLabel=ffffff" width="49%" />
 </p>
 
 ---
