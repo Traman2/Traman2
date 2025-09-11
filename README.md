@@ -44,14 +44,6 @@
 
 ---
 
-### My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=traman2&show_icons=true&theme=radical&icon_color=ff0000" width="49%" />
-</p>
-
----
-
 ### Connect With Me
 
 <p align="center">
